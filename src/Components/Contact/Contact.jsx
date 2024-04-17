@@ -49,10 +49,10 @@ const Contact = () => {
         </p>
         <ul>
           <li>
-            <img src={mail_icon}></img>aloneking0789@gmail.com
+            <img src={mail_icon}></img>robertsteeve789@gmail.com
           </li>
           <li>
-            <img src={phone_icon}></img>+1789456123
+            <img src={phone_icon}></img>+918100295721
           </li>
           <li>
             <img src={location_icon}></img>Hell,After Lyf ,Anavrin
@@ -69,7 +69,7 @@ const Contact = () => {
             name="phone"
             placeholder="Enter Your Number"
           ></input>
-          <label>Message</label>
+          <label></label>
           {/* <input type='String' name='message' placeholder='Write your message'></input> */}
           <label>Write Your Message</label>
           <textarea
