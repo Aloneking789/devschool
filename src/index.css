@@ -54,6 +54,7 @@ a{
   .container{
     padding-left:5% ;
     padding-right: 5%;
+    width: 502px;
   }
   .btn{
     padding: 14px 22px;
