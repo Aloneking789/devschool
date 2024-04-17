@@ -40,3 +40,9 @@
     font-size: 40px;
   }
 }
+
+@media(max-width:566px){
+  .hero.container{
+    width: 100%;
+  }
+}

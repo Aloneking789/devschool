@@ -17,7 +17,7 @@ function App() {
   const [playState, setPlayState] = useState(false);
 
   return (
-    <div>
+    <div className='devschool'>
       <Navbar></Navbar>
       <Hero></Hero>
       <div className="container">

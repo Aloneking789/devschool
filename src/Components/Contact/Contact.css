@@ -85,3 +85,9 @@
   }
   
 }
+
+@media(min-width: 599px) and (max-width: 1500px) {
+  .contact-cols.message form {
+    width: 90%;
+}
+}
